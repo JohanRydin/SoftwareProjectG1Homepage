@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tlp-homepage/static/css/main.1cf6bcd4.css",
+    "main.js": "/tlp-homepage/static/js/main.30bcd11b.js",
+    "static/js/453.e7aa4320.chunk.js": "/tlp-homepage/static/js/453.e7aa4320.chunk.js",
+    "static/media/johan.JPG": "/tlp-homepage/static/media/johan.bcb67203fffea99adf37.JPG",
+    "index.html": "/tlp-homepage/index.html",
+    "main.1cf6bcd4.css.map": "/tlp-homepage/static/css/main.1cf6bcd4.css.map",
+    "main.30bcd11b.js.map": "/tlp-homepage/static/js/main.30bcd11b.js.map",
+    "453.e7aa4320.chunk.js.map": "/tlp-homepage/static/js/453.e7aa4320.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cf6bcd4.css",
+    "static/js/main.30bcd11b.js"
+  ]
+}

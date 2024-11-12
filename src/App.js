@@ -1,13 +1,16 @@
 import './App.css';
 import johanImage from './pictures/johan.JPG';
-
+import FilipImage from './pictures/Filip.JPG';
+import LawendImage from './pictures/Lawend.JPG';
+import ErdenImage from './pictures/Erden.jpg';
+import IsacImage from './pictures/Isac.JPG';
 
 function Profile({ name, email, image }) {
   return (
     <div className='profile'>
       <img src={image} alt={name}></img>
       <p className='profile-name'>{name}</p>
-      <p className='profile-name'>{email}</p>
+      <p className='profile-email'>{email}</p>
     </div>
   )
 }
@@ -19,24 +22,24 @@ const members = [
     image: johanImage,
   },
   {
-    name: "NAME",
-    email: "charliewhite@gmail.com",
-    image: "https://picsum.photos/200/300",
+    name: "Filip Eriksson",
+    email: "filip.eriksson4@outlook.com",
+    image: FilipImage
   },
   {
-    name: "Charlie White",
-    email: "charliewhite@gmail.com",
-    image: "https://picsum.photos/200/300",
+    name: "Lawend Mardini",
+    email: "mardini.lawend@gmail.com",
+    image: LawendImage,
   },
   {
-    name: "Charlie White",
-    email: "charliewhite@gmail.com",
-    image: "https://picsum.photos/200/300",
+    name: "Erdem Garip",
+    email: "erdemg0919@gmail.com",
+    image: ErdenImage,
   },
   {
-    name: "Charlie White",
-    email: "charliewhite@gmail.com",
-    image: "https://picsum.photos/200/300",
+    name: "Isac Arrhenius",
+    email: "isac.arrhenius@gmail.com",
+    image: IsacImage,
   },
 ]
 
@@ -54,8 +57,8 @@ function App() {
         <div className='flexgrid'>
           {profile_members}
         </div>
-        <a href="https://picsum.photos" target="_blank" rel="noopener noreferrer" className="github-link">
-          View GitHub
+        <a href="https://github.com/JohanRydin/SoftwareProject-Group-1" target="_blank" rel="noopener noreferrer" className="github-link">
+          GitHub
         </a>
       </header>
     </div >

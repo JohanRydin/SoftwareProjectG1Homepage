@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/tlp-homepage/static/css/main.a0256953.css",
-    "main.js": "/tlp-homepage/static/js/main.0bcabc24.js",
-    "static/js/453.e7aa4320.chunk.js": "/tlp-homepage/static/js/453.e7aa4320.chunk.js",
-    "static/media/Isac.JPG": "/tlp-homepage/static/media/Isac.581c0eff32a1ee3504a6.JPG",
-    "static/media/Wallpaper.jpg": "/tlp-homepage/static/media/Wallpaper.e315c23c5df505482e56.jpg",
-    "static/media/Lawend.JPG": "/tlp-homepage/static/media/Lawend.779f7ebb318e549a93f7.JPG",
-    "static/media/Filip.JPG": "/tlp-homepage/static/media/Filip.d2bb134cf00002627a14.JPG",
-    "static/media/johan.JPG": "/tlp-homepage/static/media/johan.bcb67203fffea99adf37.JPG",
-    "static/media/Erden.jpg": "/tlp-homepage/static/media/Erden.005e4a2759c92e09af52.jpg",
-    "index.html": "/tlp-homepage/index.html",
-    "main.a0256953.css.map": "/tlp-homepage/static/css/main.a0256953.css.map",
-    "main.0bcabc24.js.map": "/tlp-homepage/static/js/main.0bcabc24.js.map",
-    "453.e7aa4320.chunk.js.map": "/tlp-homepage/static/js/453.e7aa4320.chunk.js.map"
+    "main.css": "/SoftwareProjectG1Homepage/static/css/main.7d7c4825.css",
+    "main.js": "/SoftwareProjectG1Homepage/static/js/main.72ed46e5.js",
+    "static/js/453.e7aa4320.chunk.js": "/SoftwareProjectG1Homepage/static/js/453.e7aa4320.chunk.js",
+    "static/media/Isac.JPG": "/SoftwareProjectG1Homepage/static/media/Isac.581c0eff32a1ee3504a6.JPG",
+    "static/media/Wallpaper.jpg": "/SoftwareProjectG1Homepage/static/media/Wallpaper.e315c23c5df505482e56.jpg",
+    "static/media/Lawend.JPG": "/SoftwareProjectG1Homepage/static/media/Lawend.779f7ebb318e549a93f7.JPG",
+    "static/media/Filip.JPG": "/SoftwareProjectG1Homepage/static/media/Filip.d2bb134cf00002627a14.JPG",
+    "static/media/johan.JPG": "/SoftwareProjectG1Homepage/static/media/johan.bcb67203fffea99adf37.JPG",
+    "static/media/Erden.jpg": "/SoftwareProjectG1Homepage/static/media/Erden.005e4a2759c92e09af52.jpg",
+    "index.html": "/SoftwareProjectG1Homepage/index.html",
+    "main.7d7c4825.css.map": "/SoftwareProjectG1Homepage/static/css/main.7d7c4825.css.map",
+    "main.72ed46e5.js.map": "/SoftwareProjectG1Homepage/static/js/main.72ed46e5.js.map",
+    "453.e7aa4320.chunk.js.map": "/SoftwareProjectG1Homepage/static/js/453.e7aa4320.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0256953.css",
-    "static/js/main.0bcabc24.js"
+    "static/css/main.7d7c4825.css",
+    "static/js/main.72ed46e5.js"
   ]
 }

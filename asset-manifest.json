@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tlp-homepage/static/css/main.3a052eaa.css",
-    "main.js": "/tlp-homepage/static/js/main.ed7945ea.js",
+    "main.css": "/tlp-homepage/static/css/main.a0256953.css",
+    "main.js": "/tlp-homepage/static/js/main.0bcabc24.js",
     "static/js/453.e7aa4320.chunk.js": "/tlp-homepage/static/js/453.e7aa4320.chunk.js",
     "static/media/Isac.JPG": "/tlp-homepage/static/media/Isac.581c0eff32a1ee3504a6.JPG",
     "static/media/Wallpaper.jpg": "/tlp-homepage/static/media/Wallpaper.e315c23c5df505482e56.jpg",
@@ -10,12 +10,12 @@
     "static/media/johan.JPG": "/tlp-homepage/static/media/johan.bcb67203fffea99adf37.JPG",
     "static/media/Erden.jpg": "/tlp-homepage/static/media/Erden.005e4a2759c92e09af52.jpg",
     "index.html": "/tlp-homepage/index.html",
-    "main.3a052eaa.css.map": "/tlp-homepage/static/css/main.3a052eaa.css.map",
-    "main.ed7945ea.js.map": "/tlp-homepage/static/js/main.ed7945ea.js.map",
+    "main.a0256953.css.map": "/tlp-homepage/static/css/main.a0256953.css.map",
+    "main.0bcabc24.js.map": "/tlp-homepage/static/js/main.0bcabc24.js.map",
     "453.e7aa4320.chunk.js.map": "/tlp-homepage/static/js/453.e7aa4320.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a052eaa.css",
-    "static/js/main.ed7945ea.js"
+    "static/css/main.a0256953.css",
+    "static/js/main.0bcabc24.js"
   ]
 }

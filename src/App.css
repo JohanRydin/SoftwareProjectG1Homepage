@@ -53,7 +53,7 @@
   /* Adjust size (1.5x default size) */
   font-style: italic;
   /* Make the text bold */
-  margin: 10px 0 0;
+  margin: 5px 0 0;
   /* Add space above/below the text */
 }
 
@@ -67,4 +67,10 @@
   margin-top: 5px;
   /* Add space above the link */
   display: inline-block;
+}
+
+.leader {
+  font-size: 2rem;
+
+  color: rgb(169, 223, 169)
 }
